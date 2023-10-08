@@ -10,3 +10,4 @@ function computeFactorial (n) {
 }
 
 console.log(computeFactorial(input));
+
